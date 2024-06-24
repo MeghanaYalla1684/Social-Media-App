@@ -1,4 +1,4 @@
-# Social-Media-App
+<!-- # Social-Media-App
 Full stack, fully-featured social media application using React, Firebase, Redux, Express, and Material-UI.  
 
 Implemented backend REST API server with Node.js and Express and cloud functions on Firebase
@@ -34,4 +34,4 @@ run `npm start`
 
 ## 3: Open it
 
-go to [http://localhost:3000](http://localhost:3000)
+go to [http://localhost:3000](http://localhost:3000) -->
